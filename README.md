@@ -1,4 +1,4 @@
-# Social Network Data Analysis
+# Social Network Analysis
 
 This repository uses social network data and researches the methods to analyze the data structure.
 
